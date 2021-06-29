@@ -1,7 +1,7 @@
 # output-Visualisation-of-SQL-query
 This repository is a small python snippet that demonstrates how you can visualize an output of your SQL query on your browser. 
 
-# Pre-requisites:
+# Pre-requisite:
 1. MySql: [Download](https://www.liquidweb.com/kb/install-mysql-windows)
 2. Pandas : `pip install pandas`
 3. plotly : `pip install plotly`
